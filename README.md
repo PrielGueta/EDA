@@ -10,4 +10,4 @@ matplotlib.pyplot
 sns
 files needed - vehicles_us.csv
 
-Feel free to reach our if questions arise
+Feel free to reach out if questions arise
